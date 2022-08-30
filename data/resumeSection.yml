@@ -1,0 +1,75 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Experience & Education
+
+  Over 14+ years of experience working with companies from all over the world.
+
+buttonName: "Download Resume PDF"
+buttonTarget: "/cv/resume-zach.pdf"
+
+tab1Name: Experience
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
+
+
+experience:
+  - content: >
+  
+      ### Managing Director, Analytics
+      
+      #### Aon, Reinsurance Solutions
+      
+      - Lead analytics and advise U.S. P/C insurer in support of the formation of the largest (to-date) Lloyd’s syndicate, serving the personal lines High Net Worth market. Author bespoke R packages to perform actuarial analysis, data visualization and reporting on millions of records. 
+      
+      - TBD 
+      
+      - TBD. (See [Testimonials](#testimonial))
+    time: 2020-Present
+  - content: >
+      ### Director, Analytics
+      
+      #### Aon, Reinsurance Solutions
+
+      - Used predictive analytics to increase revenue from __$3M/year to $15M/year (5X increase).__
+    time: 2019-2020
+  - content: >
+      ### AVP, Modeling Actuary
+
+      #### Assurant Inc.
+
+      - Managed team of two direct reports and oversaw enterprise risk modeling. Quantified the company’s key risks and assessed the adequacy of enterprise financial resources (~$13 billion) to meet policyholder obligations in stress scenarios.
+      
+      - Presented to senior management and board of directors on risk profile, quantification methods, and advancements including stochastic modeling.
+      
+      - Served as a member of multiple senior risk committees. Reported on organization’s key risks including underwriting, catastrophe, investment, operational and strategic. 
+      
+      - Created framework and led project to stochastically model business unit earnings and aggregate results. Collaborated with CFO and successfully linked distribution modeling metrics to short term and long term incentive compensation targets.
+    time: 2016-2019
+  
+
+education:
+  - content: >
+      #### Data Science Specialization
+
+      Johns Hopkins University on Coursera 
+      
+    time: 2018
+  - content: >
+      #### Charted Enterprise Risk Analyst
+
+      Casualty Actuarial Society
+    
+    time: 2013
+  - content: >
+      #### Fellow Actuary (FCAS)
+
+      Casualty Actuarial Society
+    time: 2013
+  - content: >
+      #### Bachelor of Applied Physics
+
+      University of Miami
+    time: 2008

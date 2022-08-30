@@ -1,0 +1,15 @@
+---
+enable: true
+topTitle: Actuary, Data Scientist
+content: >
+  # Hi I'm Zach
+
+  I am a P&C Actuary (FCAS, MAAA) with broad [experience](https://www.linkedin.com/in/zacharyeisenstein/) 
+  in the insurance and reinsurance industries. I'm passionate about quantifying
+  risk and using data to make better decisions.
+buttonName: Contact Zach
+buttonIcon: 'fa fa-envelope'
+buttonURL: "#contact"
+image: images/hero/user-picture-2-square.jpg
+videoThumb: images/hero/data-science.gif
+videoURL: 

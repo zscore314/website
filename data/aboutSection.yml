@@ -1,0 +1,20 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## Who is Zach?
+
+  Zach Eisenstein is a dynamic Actuary, consultant and manager with 14+ years of diverse insurance experience across property/casualty lines. Expertise in capital modeling with advanced proficiency in insurance analytics including pricing, reserving and reinsurance.
+content: >
+  ### I help companies manage volatility.
+
+  I specialize in ERM / Economic Capital Modeling but my interests are too broad to be considered a specialist. I have a passon for building models and learning, especially in the fields of probability & statistics, finance and risk and uncertainty. When I am not reading, I enjoy football, (strong) coffee and vacationing with my family.
+  
+  
+  I create value for clients by providing capital solutions and analytical support to help them manage volatility, protect their balance sheet, and meet their financial objectives. I enjoy learning, working with stakeholders, and making better decisions with data.
+button1Name: LinkedIn
+button2Name: Download CV
+button1Target: https://www.linkedin.com/in/zacharyeisenstein/
+button2Target: "/cv/resume-zach.pdf"
+image: images/hero/user-picture-2.jpg
+imageMaskPosition: 70px 0px
