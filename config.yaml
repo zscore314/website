@@ -33,7 +33,7 @@ params:
   contactLink: '#contact'
   copyright: All right reserved copyright © Zach Eisenstein 2022
   footerLogo: images/site-navigation/logo2.png
-  formspreeURL: YOUR FORMSPREE URL
+  formspreeURL: https://formspree.io/f/mjvzkljj
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
   logo: images/site-navigation/logo2.png
   social:
