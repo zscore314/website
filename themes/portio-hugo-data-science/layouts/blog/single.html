@@ -5,11 +5,15 @@
     <div class="row">
       <div class="col-lg-10 col-md-12 offset-lg-1 offset-md-0 text-center">
         <h3 class="breadCrumb__title">{{ .Title }}</h3>
+          <div class="small">{{ .PublishDate.Format "January 2, 2006" }}</span>
+             <div class="row">
+                <div class="col-lg-10 col-md-12 offset-lg-1 offset-md-0 text-center">
+                  <span class="article-duration">{{ .ReadingTime }} min read</span>
         <nav aria-label="breadcrumb" class="d-flex justify-content-center">
           <ol class="breadcrumb align-items-center">
-            <li class="breadcrumb-item"><a href={{ .Site.BaseURL }}>Home</a></li>
-            <li class="breadcrumb-item"><a href={{ .Site.Params.blogPageURL | absURL }}>All Post</a></li>
-            <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+            <!-- <li class="breadcrumb-item"><a href={{ .Site.BaseURL }}>Home</a></li> -->
+            <!-- <li class="breadcrumb-item"><a href={{ .Site.Params.blogPageURL | absURL }}>All Posts</a></li> -->
+            <!-- <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li> -->
           </ol>
         </nav>
       </div>
@@ -43,7 +47,7 @@
       <div class="row">
           <div class="col-lg-12">
               <div class="singleBlog__feature">
-                  <img src={{ .Params.postImage | absURL }} alt="feature-image">
+                   <!-- <img src={{ .Params.postImage | absURL }} alt="feature-image"> -->
               </div>
           </div>
       </div>
